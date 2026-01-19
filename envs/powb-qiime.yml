@@ -1,0 +1,8 @@
+name: powb-qiime
+channels:
+  - qiime2
+  - conda-forge
+  - bioconda
+dependencies:
+  - qiime2-amplicon=2024.10
+  - python=3.10

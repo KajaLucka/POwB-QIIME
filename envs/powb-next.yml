@@ -1,0 +1,7 @@
+name: powb-next
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - nextflow=25.10.*
+
